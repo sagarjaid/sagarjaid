@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagarjaid
+- 👋 Hi, I’m sagar jaid
 
 <!---
 sagarjaid/sagarjaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
